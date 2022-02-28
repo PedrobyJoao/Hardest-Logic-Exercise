@@ -5,3 +5,10 @@ This is not a normal anagram counter. Here we are looking for SUBSTRINGS (inside
 Examples:<br>
 - Input: "ovo" Output: 2  || ['o', 'o,] and ['ov', 'vo'] 
 - Input: "ifailuhkqq" Output: 3  ||  ['i', 'i'], ['q', 'q'] and ['ifa', 'fai']
+<br><Br>
+
+How to use:
+- In terminal: "javac Anagrams.java"
+- "java Anagrams"
+- It will ask for an input "string"
+- Result

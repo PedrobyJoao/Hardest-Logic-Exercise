@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 
-public class Question03 {
+public class Anagrams {
     
     // Function to sort strings
     public static String sortString(String inputString){
